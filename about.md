@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Կայքի մասին
 ---
 
 <p class="message">
