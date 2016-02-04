@@ -6,8 +6,8 @@ permalink:           pretty
 
 # Setup
 title:               Հաշվողական գիտությունը դպրոցից
-tagline:             'tagline'
-description:         'description'
+tagline:             'Computer Science for High School'
+description:         'Մեր նպատական է ներդնել հաշվողական մեթոդները դպրոցում դասավանդվող դասապլանների մեջ։'
 url:                 http://cs4hs-am.github.io
 baseurl:             ''
 paginate:            5
@@ -19,4 +19,3 @@ author:
 
 # Custom vars
 gems:               [jekyll-paginate,jekyll-gist]
-

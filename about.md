@@ -1,30 +1,29 @@
 ---
 layout: page
-title: Կայքի մասին
+title: Ծրագրի մասին
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Այսօր աշխարհում հաշվողական գիտությունը ([computational science](https://en.wikipedia.org/wiki/Computational_science)) ներդրված է բառացիորեն ցանկացած ոլորտում: Հիմքում ընկած է աշխարհը մոդելների միջոցով ուսսւմնասիրելու գաղափարը: Սա իր մեջ ներառում է մաթեմատիկական մոդելների կառուցում, հաշվողական ալգորիթմների մշակում, տվյալների վերլուծություն և համակարգչային սիմուլյացիա:
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Մինչև վերջին տարիները հաշվողական մեթոդների կիրառությունը հասանելի է եղել բացառապես ոլորտի մասնագետներին\` մարդկանց, ովքեր տիրապետում են համակարգչային տեխնոլոգիաներին կատարելապես։ Նոր ծրագրավորման լեզուների ի հայտ գալու և օգտագործողների\` տեխնոլոգիաներին հարմարվելու շնորհիվ, ներկայումս հաշվողական մեթոդներ առօրյա օգտագործում են բնագիտական ոլորտների շատ մասնագետներ։
 
-There are currently two themes built on Poole:
+Հավողական գիտությունը դպրոցից ծրագրի նպատակն է հաշվողական գիտությունը ներդնել տարբեր առարկաների դասապլաններում, առանց դասավանդվող նյութը փոփոխելու։ Ծրագրի արդյունքում ուսուցիչները կփոխեն որոշ դասապլաններ, որոնք կշոշափեն նույն նյութը հաշվողական մեթոդների օգտագործմամբ։
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Ծրագրի արդյունքում.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* Ուսուցիչներին կտրվի նոր գործիք նույն նյութը ավելի հետաքրքիր և պարզ բացատրելու համար։ Օրինակ` ֆիզիկայի շատ փորձեր և օրենքների ցուցադրություններ [հնարավոր է մոդելավորել հաշվողական մեթոդներով](https://www.youtube.com/watch?v=Jc0ZW0ke_jc)։
+* Հնարավորություն կտա աշակերտներին փորձեր կատարել\` ստեղծելով իրենց վիրտուալ միջավայրը, և նյութը ավելի պարզ պատկերացնել։
+* Աշակերտները դպրոցից կսովորեն ծրագրավորումը որպես գործիք օգտագործել տարբեր ոլորտներում։
+* Օգտագործելով հաշվողկան մեթոդները տարբեր առարկաներում, աշակերտները միջառարկայական կապեր, որոնք նախկինում հնարավոր է վրիպեր ուշադրությունից։
 
-## Setup
+Ծրագիրը բաղկացած է մի քանի փուլից.
 
-Some fun facts about the setup of this project include:
+* Ուսուցիչները ծանոթանում են հաշվողական մեթոդների հնարավորություններին և մասնակցում են նախապատրաստական դասընթացների ծրագրավորման հիմունքները սովորելու համար։
+* Յուրաքանչյուր առարկայի նյութից ուսուցիչները ընտրում են մի քանի դաս, որոնք հնարավոր է դասավանդել օգտագործելով հաշվողական մեթոդները։
+* Ընտրված դասերի համար պատրաստվում են նոր դասապլաններ։ Քանի որ նախապատրաստական դասընթացները բավական չեն, որպեսզի ուսուցիչները վարժ տիրապետեն ծրագրավորման լեզուներին, այս դասապլանների կազմման ժամանակ ուսուցիչները կաշխատեն ծրագրավորման մասնագետների հետ։
+* Դասընթացները դասավանդվում են դպրոցում։
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## Ծրագրի աջակիցներ
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+2015թ. ծրագիրը ստացել է հովանավորություն Google ընկերության [CS4HS ֆոնդից](http://www.cs4hs.com/), որի նպատակն է զարգացնել համակարգչային գիտության դասավանդումը աշխարհի դպրոցներում։ Ծրագրի փորձնական փուլը կիրականցվի [Այբ դպրոցում](http://www.aybschool.am/)։ Ծրագրին աջակցում է [«Լույս» հիմնադրամը](http://www.luys.am/)։
 
-Thanks for reading!
