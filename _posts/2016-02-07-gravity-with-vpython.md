@@ -6,4 +6,4 @@ title: Գրավիտացիոն ուժի մոդելավորում VPython-ի մի�
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/3EIK0R4qK2s" frameborder="0" allowfullscreen></iframe>
 
-Ստացված ծրագիրը կարելի է տեսնել` հետևելով [այս](https://github.com/cs4hs-am/code-library/blob/master/orbit.py) հղումը
+Ստացված ծրագիրը կարելի է տեսնել` հետևելով [այս](https://github.com/cs4hs-am/code-library/blob/master/orbit.py) հղումը։
